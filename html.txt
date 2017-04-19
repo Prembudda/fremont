@@ -1,0 +1,100 @@
+<html><head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta http-equiv="description" content="International trading and transportation company. Freight carrier and moving service specializing in air cargo, sea freight, air freight and customs brokerage.">
+<meta name="keywords" content="International freight, international shipping, international logistics, international shipment, international cargo, international moving, international distribution, international freight forwarder, international freight services, international forwarding, international forwarder, freight forwarder, international carriers, shipment to China, shipment to U.S., shipment from China, shipment from U.S., U.S. China shipping, freight to China, freight from China, freight to U.S., cargo to China, cargo to U.S. ocean freight, air freight, international air and ocean freight, international ocean and air cargo, cargo services, container freight, container shipping, loose cargo, CLLT freight, CLLT shipment, trucking, trucking delivery, project shipment, oversize cargo, charter vessel, vessel chartering, loading and unloading, crane lift service, trans-loading, car loading, vehicle loading, auto shipment, auto loading, container configuration, container size, container specifications, cargo manifest, exhibitms broker, U.S. China customs brokerage, import declaration, export declaration, export control, import export permit, import export license, customs professionals, Import, export, international trading, international trade, trading agent, trade agent, trading agency, trading escrow, trading escrow, trading services, U.S. China trade, U.S. China trading, import from China, import from U.S., export to China, export U.S., Sino-US trading, U.S. China import service, U.S. China export service, L/C service, letter of credit, L/C negotiation, off-shore trade, international trade consultation, import export aids, international trade aids, International logistics services, logistics and distribution, order fulfillment service, warehousing, CUFFS, container freight station, e-commerce logistics, online store logistics services, international courier service, storage service, packing, packaging, crating, labeling, re-packing, inventory management, inventory control, JIT management, shipment track, overseas warehouse,  PLY, 3-PL, PLY, 4-PL, third-party logistics, 3rd party logistics, 4th party logistics, logistics consultant, logistics planner, logistics organizer, event logistics, international show freight, international show cargo, international home moving, moving overseas, international household moving">
+<title>Welcome to Great Way Trading, Inc.</title>
+
+<style type="text/css">
+
+<!--
+
+.unnamed1 {  font-family: ""?"; font-size: 9pt; line-height: 16pt}
+
+a.unnamed1 {color="#666666"; text-decoration:none}
+
+a:visited.unnamed1 {color="#666666"; text-decoration:none}
+
+a:hover.unnamed1 {color: #a0da8e}
+
+.td_back     { background-image: url('images/back.gif') }
+.bodyback {  background-attachment: fixed; background-image: url(images/bg1.jpg); background-repeat: no-repeat; background-position: right bottom}
+
+td {  font-family: "Arial", "Helvetica", "sans-serif"}
+
+.auto-style1 {
+	color: #666666;
+}
+
+-->
+
+</style>
+
+<link rel="stylesheet" href="web.css">
+
+<script language="JavaScript">
+
+<!--
+
+function MM_preloadImages() { //v3.0
+
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+
+}
+
+
+
+function MM_swapImgRestore() { //v3.0
+
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+
+}
+
+
+
+function MM_findObj(n, d) { //v3.0
+
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document); return x;
+
+}
+
+
+
+function MM_swapImage() { //v3.0
+
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+
+}
+function MM_showHideLayers() { //v3.0
+
+  var i,p,v,obj,args=MM_showHideLayers.arguments;
+
+  for (i=0; i<(args.length-2); i+=3) if ((obj=MM_findObj(args[i]))!=null) { v=args[i+2];
+
+    if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v='hide')?'hidden':v; }
+
+    obj.visibility=v; }
+
+}
+//-->
+
+</script>
+<link rel="stylesheet" href="jsfiles/menu1.css">
+<script language="JavaScript" src="jsfiles/menu.js"></script><script language="JavaScript" src="jsfiles/menu_items.js"></script><script language="JavaScript" src="jsfiles/menu_tpl1.js"></script><script language="JavaScript">
+	<!--//
+	new menu (MENU_ITEMS, MENU_POS1, MENU_STYLES1);
+	//-->
+</script></head>
+</html>
